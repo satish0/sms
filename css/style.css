@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding:0;
+	outline: 0;
+	border: 0;
+}
+
+body {
+}
+
+.main-header {
+	background-color: #f8f8f8;
+	border-radius: 0px;
+	border-bottom: 1px solid #eeeeee;
+    margin: 0;	
+}
+
+.header ul li a {
+	color: #777777;
+	font-size: 20px;
+}
+.header ul li {
+	text-decoration-line: none;
+}
+
+.database .main-section {
+	display: flex;
+}
+
+.side-bar {
+	background-color: #f8f8f8;	
+}
+
+.database .menu-section {
+	background-color: #f8f8f8;
+}
+
+.database .menu-section ul {
+	
+}
+
+.database .menu-section ul li {
+	list-style-type: none;
+	padding: 10px 30px;
+	font-size: 20px;
+	border-bottom: 1px solid #eeeeee;
+	color: #777777;
+}
+
+.database .menu-section ul li select {
+	margin-left: -5px;
+}
+
+.menu-section ul a {
+	text-decoration-line: none;
+}
+
+
+.menu-section select {
+	background-color: #f8f8f8;
+}
+
+.database .menu-section ul li a {
+	color: #777777;
+}
+
+.view-section {
+	width: 100%;
+}
+
+.database .student-data {
+	margin: 20px;
+	border-radius: 0px;
+}
+
+.panel {
+	border-radius: 10px 10px 0 0;
+	margin-bottom: -1px;
+}
+
+.panel .panel-heading {
+	border-radius: 10px 10px 0 0;
+}
+
+.panel .data-pages select {
+	width: 50px;
+	border: 1px solid #e8e8e8;
+	border-radius: 4px;
+}
+
+.panel .details-search {
+	text-align: right;
+}
+
+.panel .details-search label {
+	text-align: left;
+	display: inline-block;
+}
+
+.panel .details-search input {
+	display: inline-block;
+	width: 30%;
+}
+
+.table-striped>tbody>tr:nth-of-type() {
+    background-color: #f9f9f9;
+}

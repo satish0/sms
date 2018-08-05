@@ -1,0 +1,122 @@
+* {
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+
+.body {
+	font-family: sans-serif;
+}
+
+section {
+	background-color: #f5f5f5;
+}
+
+.custom-container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+/*.reg {
+	display: none;
+}*/
+
+.layout h1 {
+	color: #777777;
+	padding-left: 30px;
+}
+
+form {
+	overflow: hidden;
+	padding: 30px;
+}
+
+.form-group {
+	margin-bottom: 0;
+}
+
+.layout label {
+	color: #777777;
+	padding: 5px;
+}
+
+.layout input {
+	width: 70%;
+	padding: 5px;
+	border-radius: 2px;
+	border:0;
+	float: right;
+}
+
+.login-link p {
+	float: right;
+	padding-right: 30px;
+	color: #777777;
+}
+
+.login-link button {
+	color: #250000;
+}
+
+
+.reg-link p {
+	float: right;
+	padding-right: 30px;
+	color: #777777;
+}
+
+.reg-link p a {
+	text-decoration-line: none;
+}
+
+.reg-link button {
+	background-color: #76c38f;
+	box-shadow: 0;
+}
+
+
+.login-link p {
+	float: right;
+	padding-right: 30px;
+	color: #777777;
+}
+
+
+.login-link p a {
+	text-decoration-line: none;
+}
+
+.login-link button {
+	background-color: #76c38f;
+	box-shadow: 0;
+}
+
+.login-link .forget-password {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+
+.login-link .new-user {
+	display: inline-block;
+
+}
+
+
+@keyframes login move {
+	from {top: 0px;}
+	tex;
+}
+
+
+
+
+/*resistration css*/
+
+
+.reg select {
+	width: 70%;
+    margin-left: 98px;
+    height: 32px;
+    color: #777777;
+}
